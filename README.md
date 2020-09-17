@@ -1,6 +1,7 @@
-# Lantrix Tap-sshuttle-python2
+# Homebrew TAP for some pinned versions of formulae
 
 ## How do I install these formulae?
+
 `brew install lantrix/tap/<formula>`
 
 Or `brew tap lantrix/tap` and then `brew install <formula>`.
@@ -14,4 +15,5 @@ Or `brew tap lantrix/tap` and then `brew install <formula>`.
 `brew install lantrix/tap/sshuttle@0.78.5`
 
 ## Documentation
+
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
